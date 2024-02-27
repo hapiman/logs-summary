@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hapiman/logs-summary"
+    "url": "git+https://github.com/hapiman/logs-summary.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
